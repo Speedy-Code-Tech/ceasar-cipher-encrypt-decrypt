@@ -6,7 +6,7 @@ package decrpyt;
 
 /**
  *
- * @author Jester Salen
+ * @author Princesses Mae Cias
  */
 public class Decrpyt {
 

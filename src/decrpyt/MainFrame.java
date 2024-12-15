@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jester Salen
+ * @author Princess Cias
  */
 public class MainFrame extends javax.swing.JFrame {
 
@@ -65,7 +65,7 @@ public class MainFrame extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 153, 0));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("JOHN JESTER H. SALEN (BSCS 3A)");
+        jLabel1.setText("Princesses Mae Cias");
 
         encryptBTN.setBackground(new java.awt.Color(0, 102, 0));
         encryptBTN.setFont(new java.awt.Font("Segoe UI", 3, 18)); // NOI18N
